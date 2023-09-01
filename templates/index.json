@@ -1,1 +1,728 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"hero","settings":{"top_subheading":"","title":"<p>Peruvian gifts for your loved ones<\/p>","title_size":50,"subheading":"Choose from our handcrafted items","link":"shopify:\/\/collections\/best-gifts","link_text":"Explore bundles","link_2":"","link_text_2":"","color_accent":"#ffffff","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/IMG_6337.jpg","overlay_opacity":0}},"slide-2":{"type":"hero","settings":{"top_subheading":"","title":"<p>Qosqo Maky: Experience Peru in your door<\/p>","title_size":70,"subheading":"Indigenous-owned store located in San Francisco","link":"shopify:\/\/pages\/contact","link_text":"Check our location","link_2":"","link_text_2":"","color_accent":"#ffffff","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/peak-of-machu-picchu-lit.jpg","overlay_opacity":0}}},"block_order":["slide-1","slide-2"],"settings":{"full_width":true,"desktop_size":-30,"mobile_size":60,"style":"bars","autoplay":false,"autoplay_speed":5,"lazyload_images":true}},"featured-collection":{"type":"featured-collection","settings":{"title":"Newly Added","heading_size":"h2","heading_position":"left","home_featured_products":"winter-arrivals","count":5,"products_per_row":5,"mobile_scrollable":true,"view_all":true,"divider":false}},"countdown":{"type":"countdown","blocks":{"block-1":{"type":"content","settings":{"heading":"BP x QM Gift Bundle","heading_size":"h3","text":"<p>We have partnered with Being Peruvian to create our unique gift bundle ~ perfect for those wanting to experience Peru right in their footstep<\/p>","content_alignment":"center"}},"block-3":{"type":"button","settings":{"button_link":"shopify:\/\/products\/being-peruvian-experience-box","button":"Join Waitlist","button_style":"secondary"}},"block-2":{"type":"timer","settings":{"year":"2023","month":"09","day":"15","hour":"03","minute":"00","hide_timer":true,"text":"<p>We can't wait to show you more!<\/p>"}}},"block_order":["block-1","block-3","block-2"],"settings":{"layout":"banner","full_width":true,"color_scheme":"1","background_image":"shopify:\/\/shop_images\/Asset_1.webp","blur_image":true,"overlay_color":"#211818","overlay_opacity":50,"lazyload_images":true}},"featured-collections":{"type":"featured-collections","blocks":{"featured-collections-0":{"type":"collection","settings":{"collection":"winter-arrivals","title":""}},"featured-collections-1":{"type":"collection","settings":{"collection":"home-decor","title":""}},"featured-collections-2":{"type":"collection","settings":{"collection":"for-her","title":""}},"featured-collections-3":{"type":"collection","settings":{"collection":"winter","title":""}},"featured-collections-4":{"type":"collection","settings":{"collection":"for-him","title":""}},"featured-collections-5":{"type":"collection","settings":{"collection":"clothing","title":""}}},"block_order":["featured-collections-0","featured-collections-1","featured-collections-2","featured-collections-3","featured-collections-4","featured-collections-5"],"settings":{"title":"Most searched","heading_size":"h2","heading_position":"left","divider":false}},"hotspots":{"type":"hotspots","blocks":{"block-1":{"type":"product","settings":{"featured_product":"peruvian-alpaca-gloves","vertical":51,"horizontal":33}},"block-2":{"type":"product","settings":{"featured_product":"huayruro-bracelet","vertical":54,"horizontal":49}},"block-3":{"type":"product","settings":{"featured_product":"nativity-set-in-carved-gourd","vertical":74,"horizontal":65}}},"block_order":["block-1","block-2","block-3"],"settings":{"title":"Our Gift Bundle from Fall 2022","heading_size":"h3","heading_position":"center","image":"shopify:\/\/shop_images\/box2_a7852f76-11a6-4b54-bf43-2369783a0fcb.jpg","indent_image":false,"image_position":"left","hotspot_style":"bag","hotspot_color":"#cc3131","lazyload_images":true}},"testimonials":{"type":"testimonials","blocks":{"block-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Found this little gem in SF, love the owners! I was able to ask about a couple items and I left with gifts for friends and family.<\/p>","author":"Ben D,","author_info":"San Jose, CA"}},"block-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Very nice place with a lot of cute and quality things, thank you so much to the owner, very nice and warm man 🇵🇪🙌🏽<\/p>","author":"Xiomara E.","author_info":"San Francisco"}},"block-3":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>I purchased an adorable sweater for my granddaughter along with a doll and several other purchases.  <\/p>","author":"Elizabeth c.","author_info":"Los Angeles, CA"}},"block-4":{"type":"testimonial","disabled":true,"settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"block-5":{"type":"testimonial","disabled":true,"settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}}},"block_order":["block-1","block-2","block-3","block-4","block-5"],"settings":{"title":"Recent reviews","align_text":"center","round_images":true,"color_scheme":"3"}},"featured-collection2":{"type":"featured-collection","custom_css":[],"settings":{"title":"Best gifts","heading_size":"h2","heading_position":"left","home_featured_products":"best-gifts","count":5,"products_per_row":5,"mobile_scrollable":false,"view_all":false,"divider":false}},"slideshow-split":{"type":"slideshow-split","blocks":{"slide-1":{"type":"slide","settings":{"top_subheading":"","title":"Side by side slide","title_size":40,"subheading":"Tailored for longer text and smaller images. Explain more about your promotion.","link":"shopify:\/\/collections\/all","link_text":"Shop now","link_2":"","link_text_2":"","text_position":"left","image":"shopify:\/\/shop_images\/bag-1.jpg","indent_image":false,"color_scheme":"1"}}},"block_order":["slide-1"],"disabled":true,"settings":{"full_width":true,"height":550,"height_mobile":450,"style":"arrows","autoplay":true,"autoplay_speed":7,"lazyload_images":true}},"logo-list":{"type":"logo-list","blocks":{"block-1":{"type":"logo_image","settings":{"link":""}},"block-2":{"type":"logo_image","settings":{"link":""}},"block-3":{"type":"logo_image","settings":{"link":""}},"block-4":{"type":"logo_image","settings":{"link":""}},"block-5":{"type":"logo_image","settings":{"link":""}},"block-6":{"type":"logo_image","settings":{"link":""}},"block-7":{"type":"logo_image","settings":{"link":""}},"block-8":{"type":"logo_image","settings":{"link":""}},"block-9":{"type":"logo_image","settings":{"link":""}},"block-10":{"type":"logo_image","settings":{"link":""}},"block-11":{"type":"logo_image","settings":{"link":""}},"block-12":{"type":"logo_image","settings":{"link":""}}},"block_order":["block-1","block-2","block-3","block-4","block-5","block-6","block-7","block-8","block-9","block-10","block-11","block-12"],"disabled":true,"settings":{"title":"Shop by brand","heading_size":"h2","heading_position":"left","divider":false}},"image-compare":{"type":"image-compare","blocks":{"block-1":{"type":"image","settings":{}},"block-2":{"type":"image","settings":{}}},"block_order":["block-1","block-2"],"disabled":true,"settings":{"heading":"","heading_size":"h2","heading_position":"left","fullwidth":true,"slider_style":"classic","height":500,"color":"#ffffff","lazyload_images":true}},"slideshow-split2":{"type":"slideshow-split","blocks":{"slideshow-split2-0":{"type":"slide","settings":{"top_subheading":"","title":"Highlight products","title_size":45,"subheading":"Repurpose your product photography with our \"Indented\" image option","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"left","indent_image":true,"color_scheme":"2"}}},"block_order":["slideshow-split2-0"],"disabled":true,"settings":{"full_width":true,"height":550,"height_mobile":450,"style":"arrows","autoplay":true,"autoplay_speed":7,"lazyload_images":true}},"promo-grid":{"type":"promo-grid","blocks":{"block-1":{"type":"banner","settings":{"heading":"Free U.S. shipping","text":"On all orders over $100","link":"shopify:\/\/collections\/all","label":"Shop now","color_scheme":"1"}}},"block_order":["block-1"],"disabled":true,"settings":{"full_width":true,"gutter_size":0,"space_above":false,"space_below":false,"lazyload_images":true}},"featured-collection3":{"type":"featured-collection","settings":{"title":"Home Decor","heading_size":"h2","heading_position":"left","home_featured_products":"home-decor","count":5,"products_per_row":4,"mobile_scrollable":false,"view_all":false,"divider":false}},"slideshow-split3":{"type":"slideshow-split","blocks":{"slideshow-split3-0":{"type":"slide","settings":{"top_subheading":"","title":"Side by Side Slide","title_size":40,"subheading":"Add optional subtext","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"right","indent_image":false,"color_scheme":"2"}}},"block_order":["slideshow-split3-0"],"disabled":true,"settings":{"full_width":true,"height":550,"height_mobile":400,"style":"arrows","autoplay":true,"autoplay_speed":7,"lazyload_images":true}},"text-columns":{"type":"text-columns","blocks":{"block-1":{"type":"text_block","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>","button_label":"Optional button","button_link":""}},"block-2":{"type":"text_block","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>","button_label":"Optional button","button_link":""}},"block-3":{"type":"text_block","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>","button_label":"Optional button","button_link":""}}},"block_order":["block-1","block-2","block-3"],"disabled":true,"settings":{"title":"","align_text":"left","divider":false,"color_scheme":"none"}},"rich-text":{"type":"rich-text","blocks":{"text":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"}}},"block_order":["text"],"disabled":true,"settings":{"align_text":"center","narrow_column":true,"color_scheme":"none","divider":false}},"blog-posts":{"type":"blog-posts","disabled":true,"settings":{"title":"From the journal","heading_size":"h2","heading_position":"left","blog":"news","blog_show_tags":true,"blog_show_date":false,"blog_show_comments":false,"blog_show_author":false,"blog_image_size":"square","divider":false}},"newsletter":{"type":"newsletter","blocks":{"title":{"type":"title","settings":{"title":"Save 10% on your first purchase","heading_size":"h2"}},"text":{"type":"text","settings":{"text":"<p>Sign up today and we'll send you a 10% discount code towards<br\/>your first purchase.<\/p>"}},"form":{"type":"form","settings":{}}},"block_order":["title","text","form"],"disabled":true,"settings":{"color_scheme":"2","align_text":"center","image_width":"33","image_mask":"none","image_position":"right","divider":false,"top_padding":true,"bottom_padding":true}}},"order":["slideshow","featured-collection","countdown","featured-collections","hotspots","testimonials","featured-collection2","slideshow-split","logo-list","image-compare","slideshow-split2","promo-grid","featured-collection3","slideshow-split3","text-columns","rich-text","blog-posts","newsletter"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Peruvian gifts for your loved ones<\/p>",
+            "title_size": 50,
+            "subheading": "Choose from our handcrafted items",
+            "link": "shopify:\/\/collections\/best-gifts",
+            "link_text": "Explore bundles",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_6337.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "slide-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Qosqo Maky: Experience Peru in your door<\/p>",
+            "title_size": 70,
+            "subheading": "Indigenous-owned store located in San Francisco",
+            "link": "shopify:\/\/pages\/contact",
+            "link_text": "Check our location",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/peak-of-machu-picchu-lit.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 60,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Newly Added",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "new-arrivals",
+        "count": 5,
+        "products_per_row": 5,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "countdown": {
+      "type": "countdown",
+      "blocks": {
+        "block-1": {
+          "type": "content",
+          "settings": {
+            "heading": "BP x QM Gift Bundle",
+            "heading_size": "h3",
+            "text": "<p>We have partnered with Being Peruvian to create our unique gift bundle ~ perfect for those wanting to experience Peru right in their footstep<\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "block-3": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/being-peruvian-experience-box",
+            "button": "Join Waitlist",
+            "button_style": "secondary"
+          }
+        },
+        "block-2": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "09",
+            "day": "15",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": true,
+            "text": "<p>We can't wait to show you more!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-3",
+        "block-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "color_scheme": "1",
+        "background_image": "shopify:\/\/shop_images\/Asset_1.webp",
+        "blur_image": true,
+        "overlay_color": "#211818",
+        "overlay_opacity": 50,
+        "lazyload_images": true
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "title": ""
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "home-decor",
+            "title": ""
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "for-her",
+            "title": ""
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter",
+            "title": ""
+          }
+        },
+        "featured-collections-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "for-him",
+            "title": ""
+          }
+        },
+        "featured-collections-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "clothing",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3",
+        "featured-collections-4",
+        "featured-collections-5"
+      ],
+      "settings": {
+        "title": "Most searched",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "divider": false
+      }
+    },
+    "hotspots": {
+      "type": "hotspots",
+      "blocks": {
+        "block-1": {
+          "type": "product",
+          "settings": {
+            "featured_product": "peruvian-alpaca-gloves",
+            "vertical": 51,
+            "horizontal": 33
+          }
+        },
+        "block-2": {
+          "type": "product",
+          "settings": {
+            "featured_product": "huayruro-bracelet",
+            "vertical": 54,
+            "horizontal": 49
+          }
+        },
+        "block-3": {
+          "type": "product",
+          "settings": {
+            "featured_product": "nativity-set-in-carved-gourd",
+            "vertical": 74,
+            "horizontal": 65
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "title": "Our Gift Bundle from Fall 2022",
+        "heading_size": "h3",
+        "heading_position": "center",
+        "image": "shopify:\/\/shop_images\/box2_a7852f76-11a6-4b54-bf43-2369783a0fcb.jpg",
+        "indent_image": false,
+        "image_position": "left",
+        "hotspot_style": "bag",
+        "hotspot_color": "#cc3131",
+        "lazyload_images": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "block-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Found this little gem in SF, love the owners! I was able to ask about a couple items and I left with gifts for friends and family.<\/p>",
+            "author": "Ben D,",
+            "author_info": "San Jose, CA"
+          }
+        },
+        "block-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Very nice place with a lot of cute and quality things, thank you so much to the owner, very nice and warm man 🇵🇪🙌🏽<\/p>",
+            "author": "Xiomara E.",
+            "author_info": "San Francisco"
+          }
+        },
+        "block-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I purchased an adorable sweater for my granddaughter along with a doll and several other purchases.  <\/p>",
+            "author": "Elizabeth c.",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "block-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "block-5": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "block-4",
+        "block-5"
+      ],
+      "settings": {
+        "title": "Recent reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "3"
+      }
+    },
+    "featured-collection2": {
+      "type": "featured-collection",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Best gifts",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "best-gifts",
+        "count": 5,
+        "products_per_row": 5,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "slideshow-split": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by side slide",
+            "title_size": 40,
+            "subheading": "Tailored for longer text and smaller images. Explain more about your promotion.",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop now",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "image": "shopify:\/\/shop_images\/bag-1.jpg",
+            "indent_image": false,
+            "color_scheme": "1"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "height": 550,
+        "height_mobile": 450,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "logo-list": {
+      "type": "logo-list",
+      "blocks": {
+        "block-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-4": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-5": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-6": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-7": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-8": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-9": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-10": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-11": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "block-12": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "block-4",
+        "block-5",
+        "block-6",
+        "block-7",
+        "block-8",
+        "block-9",
+        "block-10",
+        "block-11",
+        "block-12"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop by brand",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "divider": false
+      }
+    },
+    "image-compare": {
+      "type": "image-compare",
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "block-2": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 500,
+        "color": "#ffffff",
+        "lazyload_images": true
+      }
+    },
+    "slideshow-split2": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slideshow-split2-0": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Highlight products",
+            "title_size": 45,
+            "subheading": "Repurpose your product photography with our \"Indented\" image option",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": true,
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-split2-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "height": 550,
+        "height_mobile": 450,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "block-1": {
+          "type": "banner",
+          "settings": {
+            "heading": "Free U.S. shipping",
+            "text": "On all orders over $100",
+            "link": "shopify:\/\/collections\/all",
+            "label": "Shop now",
+            "color_scheme": "1"
+          }
+        }
+      },
+      "block_order": [
+        "block-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Home Decor",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "home-decor",
+        "count": 5,
+        "products_per_row": 4,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "slideshow-split3": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slideshow-split3-0": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 40,
+            "subheading": "Add optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "right",
+            "indent_image": false,
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-split3-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "height": 550,
+        "height_mobile": 400,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "text-columns": {
+      "type": "text-columns",
+      "blocks": {
+        "block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "From the journal",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "blog": "news",
+        "blog_show_tags": true,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_image_size": "square",
+        "divider": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Save 10% on your first purchase",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sign up today and we'll send you a 10% discount code towards<br\/>your first purchase.<\/p>"
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text",
+        "form"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2",
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "countdown",
+    "featured-collections",
+    "hotspots",
+    "testimonials",
+    "featured-collection2",
+    "slideshow-split",
+    "logo-list",
+    "image-compare",
+    "slideshow-split2",
+    "promo-grid",
+    "featured-collection3",
+    "slideshow-split3",
+    "text-columns",
+    "rich-text",
+    "blog-posts",
+    "newsletter"
+  ]
+}
